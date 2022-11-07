@@ -6,6 +6,8 @@ public class JavaOne {
 	
 		//byte, int, long, short, float, double, char, boolean - data types
 		
+		int IsValid = 123;
+		
 		byte myByte = 127;
 		System.out.println(myByte);
 		
@@ -35,6 +37,12 @@ public class JavaOne {
 		
 		String Myname = "ovi";
 		System.out.println(Myname);
+		
+		
+		
+		if (isValid == 123){
+			System.out.println("Correct!");
+		}
 		
 		
 		
